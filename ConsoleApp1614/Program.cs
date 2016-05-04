@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1614 {
     class Program {
         static void Main(string[] args) {
-            //nowosc!ffasd
+            //nowosc!ffasdd
         }sd
     }
 }
