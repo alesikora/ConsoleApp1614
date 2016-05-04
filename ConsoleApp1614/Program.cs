@@ -8,6 +8,6 @@ namespace ConsoleApp1614 {
     class Program {
         static void Main(string[] args) {
             //nowosc!
-        }s
+        }sd
     }
 }
